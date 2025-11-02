@@ -11,3 +11,4 @@ Ce projet est un exercice pratique sur Git.
 ## Fonctionnalités
 - Module de calcul
 
+Cette ligne a été ajoutée directement depuis GitHub.
