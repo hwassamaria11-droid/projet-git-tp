@@ -3,3 +3,6 @@ Auteur : [Votre nom ]
 Date : [Date du jour]
 ## Description
 Ce projet est un exercice pratique sur Git.
+
+## Modules
+- Calcul mathématique
